@@ -64,7 +64,7 @@ return total;
 
 
 console.log("Debe abonar "+cuotas+" cuotas de ");
-console.log(calculadoraDeCuotas(cuotas, productos.valor,precioFinal)+" pesos.");
+console.log(calculadoraDeCuotas(cuotas, productos.valor,precioFinal)+" pesos");
 
 
 
